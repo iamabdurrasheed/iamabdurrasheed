@@ -4,7 +4,7 @@ const mohammedAbdurRasheed = {
     name: "Mohammed Abdur Rasheed",
     location: "🌍 Somewhere awesome",
     currentFocus: "Building cool stuff ",
-    interests: ["Web Development", "Open Source", "Learning New Tech"],
+    interests: ["Web Development", "Open Source", "Learning New Tech","AI&ML","Cloud Technologies"],
     funFact: "I turn coffee into code ☕➡️💻"
 };
 console.log("Welcome to my GitHub profile!");
