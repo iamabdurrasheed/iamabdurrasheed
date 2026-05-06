@@ -1,37 +1,70 @@
-# Hey there! 👋 I'm Mohammed Abdur Rasheed
-```javascript
-const mohammedAbdurRasheed = {
-    name: "Mohammed Abdur Rasheed",
-    location: "🌍 Somewhere awesome",
-    currentFocus: "Building cool stuff ",
-    interests: ["Web Development","DSA", "Open Source", "Learning New Tech","AI&ML","Cloud Technologies"],
-    funFact: "I turn coffee into code ☕➡️💻"
-};
-console.log("Welcome to my GitHub profile!");
-```
-## 🚀 What I'm up to
-- 🔭 Currently diving deep into **Full-Stack Development**
-- 🌱 Always learning something new in the world of **Computer Science**
-- 💡 Love exploring and experimenting with new technologies
-- 🤝 Open to collaborating on interesting projects
+# 👋 Hey, I'm Mohammed Abdur Rasheed
 
-## 💻 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurrasheed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</div>
-
-## 📊 GitHub Vibes
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamabdurrasheed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamabdurrasheed)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamabdurrasheed)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Explorer;Open+Source+Contributor" />
+</p>
 
 ---
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-  <br><br>
-  Thanks for stopping by! 🚀
-</div>
+
+## 🚀 About Me
+
+```javascript
+const mohammedAbdurRasheed = {
+    role: "Full Stack Developer",
+    focus: ["Web Development", "AI & ML", "Cloud"],
+    learning: ["System Design", "Advanced Backend"],
+    funFact: "I turn coffee into scalable systems ☕➡️⚙️"
+};
+```
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,express,mongodb,mysql,git,docker,aws,linux" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamabdurrasheed&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamabdurrasheed&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurrasheed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabdurrasheed&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/iamabdurrasheed">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/iamabdurrasheed">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+</p>
